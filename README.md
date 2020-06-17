@@ -7,6 +7,7 @@ Repositório para o Webinar - Git Comandos Básico
 
   - [O que é Git?](#git)
   - [Conceito de Branchs](#branchs)
+  - [O que é Git Hub](#github)
   - [Comandos Básicos](#comandos)
   - [Suporte](#suporte)
   - [Licença](#licena)
@@ -19,7 +20,7 @@ Repositório para o Webinar - Git Comandos Básico
 
 - Além disso, o Git nos ajuda muito a controlar o fluxo de novas funcionalidades entre vários desenvolvedores no mesmo projeto com ferramentas para análise e resolução de conflitos quando o mesmo arquivo é editado por mais de uma pessoa em funcionalidades diferentes.
 
-## Branchs
+## Branchs - Conceitos
 
 > Entendendo como funciona a arquitetura de Branchs no Git
 
@@ -38,7 +39,17 @@ Repositório para o Webinar - Git Comandos Básico
 - Nesse caso, “master”, “Hotfix”, “Release”, “Develop” e os “Feature” são os brancos enquanto que os círculos são os commits. As caixas com v0.1, v0.2 e v1.0 são versões (conhecidas por tags) que foram pra versão em produção e podem ser compostas por pontos na história de vários branchs.
 
 >fonte: https://blog.rocketseat.com.br/iniciando-com-git-github/
-## comandos
+
+## GitHub
+> Definições básicas do GitHub
+- Legal, até agora falamos sobre algumas funcionalidades do Git mas tem um grande problema aí: como os outros desenvolvedores do time terão acesso a todo esse código e poderão também adicionar seus branchs e commits?
+
+- O Github é um serviço online de hospedagem de repositórios Git (como são chamados os projetos que utilizam Git). Com ele podemos manter todos nossos commits e ramos sincronizados entre os membros do time.
+
+- Além de servir como hospedagem, o Github possui muitas integrações com serviços que auxiliam no deploy da aplicação através de integração contínua.
+
+>Fonte: fonte: https://blog.rocketseat.com.br/iniciando-com-git-github/
+## Comandos
 
 > Comandos básicos do Git
 
