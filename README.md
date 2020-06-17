@@ -58,7 +58,7 @@ Repositório para o Webinar - Git Comandos Básico
 
 ## Suporte
 
-Linkedin at: <a href="https://www.linkedin.com/in/vitor-cadoso-" target="_blank">`Vitor Cardoso`</a>
+Linkedin: <a href="https://www.linkedin.com/in/vitor-cardoso-/" target="_blank">`Vitor Cardoso`</a>
 
 E-mail: `scardosovitor@gmail.com`
 
@@ -69,4 +69,4 @@ E-mail: `scardosovitor@gmail.com`
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 © <a href="https://www.linkedin.com/in/vitor-cadoso-" target="_blank">Vitor Cardoso</a>
+- Copyright 2020 © <a href="https://www.linkedin.com/in/vitor-cardoso-/" target="_blank">Vitor Cardoso</a>
