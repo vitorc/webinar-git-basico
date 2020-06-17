@@ -48,7 +48,7 @@ Repositório para o Webinar - Git Comandos Básico
 
 - Além de servir como hospedagem, o Github possui muitas integrações com serviços que auxiliam no deploy da aplicação através de integração contínua.
 
->Fonte: fonte: https://blog.rocketseat.com.br/iniciando-com-git-github/
+>Fonte: https://blog.rocketseat.com.br/iniciando-com-git-github/
 ## Comandos
 
 > Comandos básicos do Git
