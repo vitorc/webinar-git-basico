@@ -48,7 +48,7 @@ Repositório para o Webinar - Git Comandos Básico
 
 - Além de servir como hospedagem, o Github possui muitas integrações com serviços que auxiliam no deploy da aplicação através de integração contínua.
 
->Fonte: fonte: https://blog.rocketseat.com.br/iniciando-com-git-github/
+>Fonte: https://blog.rocketseat.com.br/iniciando-com-git-github/
 ## Comandos
 
 > Comandos básicos do Git
@@ -57,7 +57,7 @@ Repositório para o Webinar - Git Comandos Básico
 - git checkout -b funcionalidade_x - Cria uma nova branch com nome funcionalidade_x 
 - git status - Apresenta o status atual da branch local
 - git add - Adicionar novos arquivos na branch local
-- git commit - Cria um commit para a branch local
+- git commit -m "Mensagem de Commit" - Cria um commit com mensagem para a branch local
 - git push - Coloca todos os commits locais na branch do servidor
 - git checkout <branch_desejada> - Retorna para branch desejada
 - git fetch origin - Exibe todo o histórico do repositório no servidor
