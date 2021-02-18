@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 def codigobasico():
-    valor1 = 600
-    valor2 = 200
+    valor1 = 800
+    valor2 = 400
     soma = valor1+valor2
     subtracao = valor1 - valor2
     divisao = valor1 / valor2
