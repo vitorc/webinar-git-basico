@@ -34,7 +34,7 @@ Repositório para o Webinar - Git Comandos Básico
 
 - Na imagem abaixo podemos ver um exemplo de trabalho com vários ramos e commits aplicados. Veja que em alguns pontos da história os ramos são unidos para que as alterações de um ramo sejam aplicadas a outro.
 
-![Exemplo de Branchs](https://blog.rocketseat.com.br/content/images/2018/12/image-67.png)
+[Exemplo de Branchs](https://beecrowd.com/wp-content/uploads/2024/04/2022-08-18-GitHub.jpg)
 
 - Nesse caso, “master”, “Hotfix”, “Release”, “Develop” e os “Feature” são os brancos enquanto que os círculos são os commits. As caixas com v0.1, v0.2 e v1.0 são versões (conhecidas por tags) que foram pra versão em produção e podem ser compostas por pontos na história de vários branchs.
 
